@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4LLGiY3vMc=",
+  "dgSpecHash": "1zKNYMea/Qw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josef\\source\\repos\\MinhaLojinha\\MinhaLojinha\\MinhaLojinha.csproj",
+  "projectFilePath": "C:\\Users\\josef\\source\\repos\\MinhaLojinha\\MinhaLojinha\\MinhaLojinha\\MinhaLojinha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josef\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\josef\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",

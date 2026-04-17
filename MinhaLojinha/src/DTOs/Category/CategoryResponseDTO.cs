@@ -6,6 +6,7 @@ public class CategoryResponseDTO
 {
     public long Id { get; set; }
     public string Name { get; set; }
+    public List<Product> ListProduct { get; set;}
 
     // O nosso operador implícito para o C# converter a Entidade em DTO sozinho!
     public static implicit operator CategoryResponseDTO(Category category)
@@ -15,7 +16,8 @@ public class CategoryResponseDTO
         return new CategoryResponseDTO
         {
             Id = category.Id,
-            Name = category.Name
+            Name = category.Name,
+            ListProduct = category.ListProduct
         };
     }
 }
